@@ -3,7 +3,7 @@ pensamento computacional
 # Sou aluno Gabriel.
 Aluno de Colégio Cívico Militar intereçado em programação.
 
-### Olá amigos da programação 👋
+### Ola estudiosos da Tecnologia
 
 <!--
 **Inferdes/Inferdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
